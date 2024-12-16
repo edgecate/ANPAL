@@ -1,4 +1,4 @@
-# Automatic Number-Plate Analysis Legend (ANAL)
+# Automatic Number-Plate Analysis Legend (ANPAL)
 
 > Automatic Number-Plate Analysis Legend code
 
